@@ -1,9 +1,9 @@
 RENCANA KONTEN PI
 
 - javascript
-- PHP frameworks
   * ES6
   * framewok javascript
+- PHP frameworks
 - Struktur data dasar
 - Interview
 - Vlogs
