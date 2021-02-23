@@ -1,0 +1,8 @@
+RENCANA KONTEN PI
+
+- javascript
+- PHP frameworks
+  * ES6
+  * framewok javascript
+- Interview
+- Vlogs
