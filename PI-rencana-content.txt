@@ -6,7 +6,7 @@ RENCANA KONTEN PI
    ^ VUE
    ^ React
 - PHP frameworks
-  ^ LARAVEL
+  ^ laravel
 - Struktur data dasar
 - Interview
 - Vlogs
