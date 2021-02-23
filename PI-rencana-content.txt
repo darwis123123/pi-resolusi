@@ -4,6 +4,7 @@ RENCANA KONTEN PI
   * ES6
   * framewok javascript
    ^ vUE
+   ^ React
 - PHP frameworks
  ^ Laravel
 - Struktur data dasar
