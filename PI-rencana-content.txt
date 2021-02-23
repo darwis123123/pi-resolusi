@@ -5,8 +5,10 @@ RENCANA KONTEN PI
   * framewok javascript
    ^ vUE
    ^ React
+   ^ darwis
 - PHP frameworks
  ^ Laravel
+ ^ padli
 - Struktur data dasar
 - Interview
 - Vlogs
